@@ -1,0 +1,226 @@
+.{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    width: 100;
+    /* height: 1205xp; */
+    background: #FFFFFF;
+    background-color: aliceblue;
+    font-family: 'Manrope', sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    /* width: 100%; */
+    padding: 10px 6.5%;
+    background: #F1F5FE;
+}
+.just-project{
+    display: flex;
+    align-items: center;
+}
+.just-project img{
+width: 30px;
+}
+.just-project p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 2px;
+    color: #155EEF;
+}
+.home-link{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.home-link a{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    color: #000000;
+    font-family: 'Halant', serif;
+    text-decoration: none;
+}
+.home-button{
+    border-bottom: 1px solid #155EEF;
+ }
+.home-link button{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #155EEF;
+    background: #F1F5FE;
+    border: 1px solid #155EEF;
+    border-radius: 8px;
+    padding: 5px 12px;
+   }
+   .sec1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 6.5%;
+    background: #000000;
+    color: aliceblue;
+   }
+   .lefty h1{
+    font-family: 'Halant', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 120%;
+    color: #FFFFFF;
+   }
+   .lefty h3{
+    font-family: 'Halant', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #B8B8B8;
+   }
+   .lefty p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #A3A3A3;
+    padding: 5px;
+    margin-top: 5px;
+   }
+   .see-project{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    background: #155EEF;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 5%;
+   }
+   .joy{
+    padding-top: 10px;
+    display: flex;
+    align-items: end;
+   }
+   .joy img{
+    width: 80%;
+   }
+   .sec2{
+    display: flex;
+    justify-content: space-between;
+    background: #F5F8FE;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 20px 6.5%;
+   }
+   .Bio{
+    width: 40%;
+   }
+   .Bio img{
+    width: 100%;
+   }
+   .righty{
+    width: 45%;
+   }
+   .righty h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 50px;
+    color: #000000;
+   }
+   .Resume{
+    display: flex;
+    gap: 5%;
+   }
+   .Resume .b1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    background: #155EEF;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 5%;
+   }
+   .Resume .b2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #155EEF;
+    border: 1px solid #155EEF;
+    border-radius: 8px;
+    padding: 4px 3%;
+   }
+   .righty h1{
+    font-family: 'Halant', serif;
+   }
+   .righty p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    color: #000000;
+    width: 80%;
+   }
+   .social img{
+    width: 15%;
+   }
+   .chat{
+    display: flex;
+    gap: 22px;
+   }
+   .AD p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+   }
+   footer{
+    background: #080808;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 6.5%;
+    color: aliceblue;
+    align-items: center;
+   }
+   .logoooo2{
+    display: flex;
+    align-items: center;
+   }
+   .dw-lg img{
+    width: 80%;
+   }
+   .logoooo2 p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 50px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+   }
+
+
+   
+
+
+   
+    
